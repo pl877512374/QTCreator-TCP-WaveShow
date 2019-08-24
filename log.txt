@@ -1,0 +1,2 @@
+0823：
+将qchart控件用qcustomplot控件代替
